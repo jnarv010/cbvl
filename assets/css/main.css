@@ -3658,7 +3658,7 @@
 			
 			#main > header p iframe {
 				max-width: 100%;
-				height: auto;
+				height: 100%;
 			}
 
 		@media screen and (max-width: 1680px) {
