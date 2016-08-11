@@ -3638,6 +3638,8 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		text-align: center;
+		max-width: 100%;
+			height: auto;
 	}
 
 		#main > header h2 {
@@ -3650,9 +3652,6 @@
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
 			top: 0;
-			max-width: 100%;
-			height: auto;
-			position: absolute;
 		}
 
 			#main > header p a {
